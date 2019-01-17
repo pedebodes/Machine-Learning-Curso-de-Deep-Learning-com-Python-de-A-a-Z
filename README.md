@@ -1,4 +1,8 @@
 # Deep Learning<br/>
-Estou fazendo um curso de Deep Learning que ensina várias técnicas de Machine Learning,
-entre elas estão: Classificação binária, classificação multiclasse, mapas
-auto-organizáveis, regressão linear e Séries temporais.
+Estas são meu mini-projetos realizados no assunto de Deep Learning, para ter um ambiente que rode essas tarefas é só seguir as etapas descritas abaixo.<br/>
+
+1 - Instale as dependencias utilizadas com este comando pip install -r requirements.txt <br/>
+2 - Abra o jupyter notebook. <br/>
+3 - Escolha qual dos projetos quer ver e abra.
+
+Até mais.
